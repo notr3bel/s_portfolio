@@ -16,9 +16,9 @@ function App() {
 
   const projects = [
     {
-      title: "College Reel",
-      thumbnail: "https://images.unsplash.com/photo-1536240478700-b869070f9279?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      videoUrl: "https://www.instagram.com/shashii._.reddy/reel/DHsVJqqyGCN/",
+      title: "College Campus",
+      thumbnail: "https://media.getmyuni.com/assets/images/news-images/39e02d02145836866e301cbdd0f88993.webp",
+      videoUrl: "https://drive.google.com/file/d/1z9Gtke75Sol3tTSKS9VfKwK2v5s1HPZv/view?usp=drivesdk",
       category: "College"
     },
     {
