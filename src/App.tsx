@@ -29,9 +29,9 @@ function App() {
       category: "Automobile"
     },
     {
-      title: "",
-      thumbnail: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      videoUrl: "https://youtube.com/watch?v=example3",
+      title: "Mysore",
+      thumbnail: "3.jpg",
+      videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
       category: "Music Video"
     }
   ];
