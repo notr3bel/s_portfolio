@@ -35,7 +35,7 @@ function App() {
     },
     {
       title: "Mysore, Tirupati",
-      thumbnail: "https://images.app.goo.gl/sCBVLFZ6ZquU9iZN8",
+      thumbnail: "https://dwq3yv87q1b43.cloudfront.net/public/blogs/fit-in/1200x675/Blog_20241130-237756404-1732944745.jpg",
       videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
       category: "Historical Video"
     }
