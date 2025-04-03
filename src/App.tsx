@@ -28,15 +28,33 @@ function App() {
       category: "College"
     },
     {
+      title: "1st Year",
+      thumbnail: "https://st.depositphotos.com/1372276/2539/i/450/depositphotos_25399091-stock-photo-young-man-doing-homework-and.jpg",
+      videoUrl: "https://drive.google.com/file/d/107Ynx2kXDOmElp1DCT6H2dRdbok4BN7E/view",
+      category: "College"
+    },
+    {
+      title: "Swayam-Fest",
+      thumbnail: "https://dgu.ac/thumb/1400x560/images/header-images/life-at-dgu/college-fest/4.jpg",
+      videoUrl: "https://drive.google.com/file/d/108NpIQ_P9YrylgTHc-pfqB3qQa9xRlK0/view",
+      category: "College"
+    },
+    {
       title: "Bike Shoot",
       thumbnail: "https://imgd.aeplcdn.com/600x337/bw/ec/39760/2019-BikeWale-TrackDay-Royal-Enfield-Continental-GT-650-156008.jpg?wm=2&q=75",
       videoUrl: "https://drive.google.com/file/d/1-HnZ0lNGrIgs-8CHh3xQck282-Irp74C/view?usp=drivesdk",
       category: "Automobile"
     },
     {
-      title: "Mysore, Tirupati",
+      title: "Mysore",
       thumbnail: "https://dwq3yv87q1b43.cloudfront.net/public/blogs/fit-in/1200x675/Blog_20241130-237756404-1732944745.jpg",
       videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
+      category: "Historical Video"
+    },
+     {
+      title: "Tirupati",
+      thumbnail: "https://tirupatibalajitravels.co.in/wp-content/uploads/2024/01/balaji-temple-1.webp",
+      videoUrl: "https://drive.google.com/file/d/10W35HeJRKqEG-5FBrSgfXdmrI-vRgNec/view?usp=drivesdk",
       category: "Historical Video"
     }
   ];
