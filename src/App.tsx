@@ -23,7 +23,7 @@ function App() {
     },
     {
       title: "Potluck",
-      thumbnail: "https://images.app.goo.gl/5neDpc4aENdATY9KA",
+      thumbnail: "https://media.gettyimages.com/id/1440077186/video/top-down-shot-of-people-passing-plates-and-serving-food-at-friendsgiving-dinner.jpg?s=640x640&k=20&c=5AaZ5IeCP_w-YuzmI0yXl8bArSA1hlwoQJiZnK5NKmY=",
       videoUrl: "https://drive.google.com/file/d/102rRYULYsErjJ3_JvwqbMJ8oIFalgjbo/view",
       category: "College"
     },
