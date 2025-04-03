@@ -19,7 +19,13 @@ function App() {
       title: "College Reel",
       thumbnail: "https://images.unsplash.com/photo-1536240478700-b869070f9279?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       videoUrl: "https://www.instagram.com/shashii._.reddy/reel/DHsVJqqyGCN/",
-      category: "Commercial"
+      category: "College"
+    },
+    {
+      title: "Potluck",
+      thumbnail: "https://images.app.goo.gl/5neDpc4aENdATY9KA",
+      videoUrl: "https://drive.google.com/file/d/102rRYULYsErjJ3_JvwqbMJ8oIFalgjbo/view",
+      category: "College"
     },
     {
       title: "Bike Shoot",
@@ -28,7 +34,7 @@ function App() {
       category: "Automobile"
     },
     {
-      title: "Mysore",
+      title: "Mysore, Tirupati",
       thumbnail: "https://images.app.goo.gl/sCBVLFZ6ZquU9iZN8",
       videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
       category: "Historical Video"
