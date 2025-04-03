@@ -248,21 +248,13 @@ function App() {
                 Feel free to reach out through social media or email. I'm always interested in new projects and collaborations.
               </p>
               <div className="space-y-4">
-                <a href="#" className="flex items-center space-x-3 text-gray-400 hover:text-purple-400">
-                  <Youtube className="w-6 h-6" />
-                  <span>YouTube</span>
-                </a>
-                <a href="#" className="flex items-center space-x-3 text-gray-400 hover:text-purple-400">
-                  <Vimeo className="w-6 h-6" />
-                  <span>Vimeo</span>
-                </a>
-                <a href="#" className="flex items-center space-x-3 text-gray-400 hover:text-purple-400">
+                <a href="https://www.instagram.com/shashii._.reddy?igsh=eG1yMzl1NHF4Y3pv" className="flex items-center space-x-3 text-gray-400 hover:text-purple-400">
                   <Instagram className="w-6 h-6" />
                   <span>Instagram</span>
                 </a>
-                <a href="mailto:contact@example.com" className="flex items-center space-x-3 text-gray-400 hover:text-purple-400">
+                <a href="mailto:shashikanthshashi777@gmail.com" className="flex items-center space-x-3 text-gray-400 hover:text-purple-400">
                   <Mail className="w-6 h-6" />
-                  <span>contact@example.com</span>
+                  <span>shashikanthshashi777@gmail.com</span>
                 </a>
               </div>
             </div>
@@ -273,7 +265,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-900 border-t border-gray-800 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-400">
-          <p>© 2024 John Doe. All rights reserved.</p>
+          <p>© 2025 Shahsikanth. All rights reserved.</p>
         </div>
       </footer>
     </div>
