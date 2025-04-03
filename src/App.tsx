@@ -1,7 +1,6 @@
 import React from 'react';
 import { Menu, X, Play, Youtube, Timer as Vimeo, Instagram, Mail, ChevronDown } from 'lucide-react';
 import { useState, useEffect } from 'react';
-import t3 from "./assets/images/t3.jpg"
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeSection, setActiveSection] = useState('home');
@@ -30,7 +29,7 @@ function App() {
     },
     {
       title: "Mysore",
-      thumbnail: t3,
+      thumbnail: "https://images.app.goo.gl/sCBVLFZ6ZquU9iZN8",
       videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
       category: "Music Video"
     }
