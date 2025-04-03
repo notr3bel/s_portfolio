@@ -31,7 +31,7 @@ function App() {
       title: "Mysore",
       thumbnail: "https://images.app.goo.gl/sCBVLFZ6ZquU9iZN8",
       videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
-      category: "Music Video"
+      category: "Historical Video"
     }
   ];
 
