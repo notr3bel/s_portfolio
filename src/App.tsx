@@ -30,7 +30,7 @@ function App() {
     },
     {
       title: "Mysore",
-      thumbnail: {t3},
+      thumbnail: t3,
       videoUrl: "https://drive.google.com/file/d/1-ZupMZVvxE7VtmUVSJrjcGukuO1r1Jvw/view?usp=drivesdk",
       category: "Music Video"
     }
