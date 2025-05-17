@@ -56,6 +56,24 @@ function App() {
       thumbnail: "https://tirupatibalajitravels.co.in/wp-content/uploads/2024/01/balaji-temple-1.webp",
       videoUrl: "https://drive.google.com/file/d/10W35HeJRKqEG-5FBrSgfXdmrI-vRgNec/view?usp=drivesdk",
       category: "Historical Video"
+    },
+    {
+      title: "Swayam Theme",
+      thumbnail: "https://www.knowafest.com/files/uploads/SWAYAM%20QR%20CODE_20240514_141412_0001-2024051606.png",
+      videoUrl: "https://drive.google.com/file/d/1HsXoQd5XOU42ogn-_ieK0cohneleNGU7/view?usp=drivesdk",
+      category: "College Fest"
+    },
+    {
+      title: "Dhwani Audition",
+      thumbnail: "https://mvjce.edu.in/wp-content/uploads/2024/03/Dhwani.jpg",
+      videoUrl: "https://drive.google.com/file/d/1Hi4i5RB2yU9UkedkUbY-OINCMDMZlCzV/view?usp=drivesdk",
+      category: "Club Audition"
+    },
+    {
+      title: "DJI Osmo P3",
+      thumbnail: "https://images.fonearena.com/blog/wp-content/uploads/2023/10/DJI-Osmo-Pocket-3.jpg",
+      videoUrl: "https://drive.google.com/file/d/1HSQXjWQLo80m8xrlsRVYz8w__9UO4yOn/view?usp=drivesdk",
+      category: "Camera"
     }
   ];
 
